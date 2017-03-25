@@ -1,8 +1,8 @@
 ## Processing for iOS
 
-You can use the [editor on GitHub](https://github.com/Processing-iOS/Processing-iOS-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Processing for iOS is an iOS editor of the popular programming language processing.org.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download it for free on the AppStore: https://itunes.apple.com/us/app/processing-icompiler/id648955851?mt=8
 
 ### Markdown
 
