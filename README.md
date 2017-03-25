@@ -1,16 +1,43 @@
-## Processing for iOS
-
 Processing for iOS is an iOS editor of the popular programming language processing.org.
 
 ### Simple and powerful processing programming language
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```Processing
+size( 300, 260 );
 
+background( #ffffff ); // white
+
+int x = Math.floor( Math.random() * 300 );
+int y = Math.floor( Math.random() * 260 );
+
+int colour;
+
+for ( int i=0; i<30000; i++ )
+{
+   int vertex = Math.floor( Math.random() * 3 );
+   switch ( vertex )
+   {
+      case 0:
+      x = x / 2;
+      y = y / 2;
+      colour = #00ff00; // green
+      break;
+      case 1:
+      x = 150 + ( 150 - x )/2;
+      y = 260 - ( 260 - y )/2;
+      colour = #ff0000; // red
+      break;
+      case 2:
+      x = 300 - ( 300 - x )/2;
+      y = y / 2;
+      colour = #0000ff; // blue
+   }
+   set( x,y, colour );
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Powerful native iOS add-ons
 
