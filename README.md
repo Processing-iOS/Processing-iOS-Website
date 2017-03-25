@@ -49,3 +49,8 @@ for (int i=0; i<30000; i++)
 ### Open Source
 
 Get involved and help improving processing for iOS. The project is available on [GitHub](https://github.com/Processing-iOS/Processing-iOS).
+
+### Community!
+
+You created an awesome piece of software in Processing for iOS? You are using Processing for iOS to teach students programming?
+I would love to hear about that: frederik@processing-app.org
