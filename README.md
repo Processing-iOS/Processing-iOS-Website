@@ -14,10 +14,10 @@ int y = Math.floor( Math.random() * 260 );
 
 int colour;
 
-for ( int i=0; i<30000; i++ )
+for (int i=0; i<30000; i++)
 {
-   int vertex = Math.floor( Math.random() * 3 );
-   switch ( vertex )
+   int vertex = Math.floor(Math.random() * 3);
+   switch (vertex)
    {
       case 0:
       x = x / 2;
@@ -34,7 +34,7 @@ for ( int i=0; i<30000; i++ )
       y = y / 2;
       colour = #0000ff; // blue
    }
-   set( x,y, colour );
+   set(x, y, colour);
 }
 ```
 
