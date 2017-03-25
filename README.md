@@ -5,9 +5,9 @@ Processing for iOS is an iOS editor of the popular programming language processi
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```Processing
-size( 300, 260 );
+size(300, 260);
 
-background( #ffffff ); // white
+background(255); // white
 
 int x = Math.floor( Math.random() * 300 );
 int y = Math.floor( Math.random() * 260 );
