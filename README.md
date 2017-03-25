@@ -2,36 +2,23 @@
 
 Processing for iOS is an iOS editor of the popular programming language processing.org.
 
-Download it for free on the AppStore: https://itunes.apple.com/us/app/processing-icompiler/id648955851?mt=8
-
-### Markdown
+### Simple and powerful processing programming language
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Powerful native iOS add-ons
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Processing-iOS/Processing-iOS-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- accelerometer and gyroscope access
+- compass
+- barometer
+- camera
 
-### Support or Contact
+### Open Source
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Get involved and help improving processing for iOS. The project is available on [GitHub](https://github.com/Processing-iOS/Processing-iOS).
